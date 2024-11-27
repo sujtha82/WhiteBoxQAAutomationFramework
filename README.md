@@ -1,1 +1,1 @@
-# WhiteBoxQAAutomationFramework
+#AutomationFramework
